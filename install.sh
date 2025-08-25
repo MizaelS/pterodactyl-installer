@@ -28,8 +28,8 @@ set -e
 #                                                                                    #
 ######################################################################################
 
-export GITHUB_SOURCE="v1.1.1"
-export SCRIPT_RELEASE="v1.1.1"
+export GITHUB_SOURCE="debian-13-support"
+export SCRIPT_RELEASE="debian-13-support"
 export GITHUB_BASE_URL="https://raw.githubusercontent.com/MizaelS/pterodactyl-installer"
 
 LOG_PATH="/var/log/pterodactyl-installer.log"
